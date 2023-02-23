@@ -10,3 +10,4 @@ model.ChatWaifu.ChatWaifu_marai
 plugins.ChatWaifu.config
 pkg.plugin.models
 pkg.plugin.host
+librosa
