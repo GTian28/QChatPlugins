@@ -11,3 +11,4 @@ plugins.ChatWaifu.config
 pkg.plugin.models
 pkg.plugin.host
 librosa
+lxml
